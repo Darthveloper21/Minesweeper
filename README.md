@@ -10,6 +10,7 @@ Can't remove flags.
 Overflow.
 
 ## Feature update:
-If all flags are correct you win.
 
 First move always opens a cell no matter it is right, left or middle click.
+
+Download SDL2 here: <https://www.libsdl.org/download-2.0.php>
